@@ -3,14 +3,6 @@
   "WorkspaceRootPath": "C:\\Users\\user\\OneDrive\\Escritorio\\WebEscuelaJson\\WebEcuelaJson\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{649FF9E1-8A76-4201-8C48-D55AA79B2407}|C:\\Users\\user\\OneDrive\\Escritorio\\WebEscuelaJson\\WebEcuelaJson|C:\\Users\\user\\OneDrive\\Escritorio\\WebEscuelaJson\\WebEcuelaJson\\default.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{649FF9E1-8A76-4201-8C48-D55AA79B2407}|C:\\Users\\user\\OneDrive\\Escritorio\\WebEscuelaJson\\WebEcuelaJson|solutionrelative:default.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{649FF9E1-8A76-4201-8C48-D55AA79B2407}|C:\\Users\\user\\OneDrive\\Escritorio\\Json Sillaro Abril\\WebEcuelaJson|C:\\Users\\user\\OneDrive\\Escritorio\\WebEscuelaJson\\WebEcuelaJson\\default.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{649FF9E1-8A76-4201-8C48-D55AA79B2407}|C:\\Users\\user\\OneDrive\\Escritorio\\Json Sillaro Abril\\WebEcuelaJson|solutionrelative:default.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{649FF9E1-8A76-4201-8C48-D55AA79B2407}|C:\\Users\\user\\OneDrive\\Escritorio\\WebEscuelaJson\\WebEcuelaJson|c:\\users\\user\\onedrive\\escritorio\\webescuelajson\\webecuelajson\\index.html||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{649FF9E1-8A76-4201-8C48-D55AA79B2407}|C:\\Users\\user\\OneDrive\\Escritorio\\WebEscuelaJson\\WebEcuelaJson|solutionrelative:index.html||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
@@ -32,6 +24,14 @@
     {
       "AbsoluteMoniker": "D:0:0:{649FF9E1-8A76-4201-8C48-D55AA79B2407}|C:\\Users\\user\\OneDrive\\Escritorio\\Json Sillaro Abril\\WebEcuelaJson|C:\\Users\\user\\OneDrive\\Escritorio\\WebEscuelaJson\\WebEcuelaJson\\js\\form.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
       "RelativeMoniker": "D:0:0:{649FF9E1-8A76-4201-8C48-D55AA79B2407}|C:\\Users\\user\\OneDrive\\Escritorio\\Json Sillaro Abril\\WebEcuelaJson|solutionrelative:js\\form.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{649FF9E1-8A76-4201-8C48-D55AA79B2407}|C:\\Users\\user\\OneDrive\\Escritorio\\Json Sillaro Abril\\WebEcuelaJson|C:\\Users\\user\\OneDrive\\Escritorio\\WebEscuelaJson\\WebEcuelaJson\\default.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{649FF9E1-8A76-4201-8C48-D55AA79B2407}|C:\\Users\\user\\OneDrive\\Escritorio\\Json Sillaro Abril\\WebEcuelaJson|solutionrelative:default.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{649FF9E1-8A76-4201-8C48-D55AA79B2407}|C:\\Users\\user\\OneDrive\\Escritorio\\WebEscuelaJson\\WebEcuelaJson|C:\\Users\\user\\OneDrive\\Escritorio\\WebEscuelaJson\\WebEcuelaJson\\default.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{649FF9E1-8A76-4201-8C48-D55AA79B2407}|C:\\Users\\user\\OneDrive\\Escritorio\\WebEscuelaJson\\WebEcuelaJson|solutionrelative:default.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{649FF9E1-8A76-4201-8C48-D55AA79B2407}|C:\\Users\\cfote\\Desktop\\WebJson\\WebEcuelaJson|C:\\Users\\user\\OneDrive\\Escritorio\\WebEscuelaJson\\WebEcuelaJson\\index.html||{40D31677-CBC0-4297-A9EF-89D907823A98}",
@@ -65,16 +65,16 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 2,
+          "SelectedChildIndex": 0,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 0,
               "Title": "index.html",
               "DocumentMoniker": "C:\\Users\\user\\OneDrive\\Escritorio\\WebEscuelaJson\\WebEcuelaJson\\index.html",
               "RelativeDocumentMoniker": "index.html",
-              "ToolTip": "C:\\Users\\user\\OneDrive\\Escritorio\\WebEscuelaJson\\WebEcuelaJson\\index.html",
-              "RelativeToolTip": "index.html",
+              "ToolTip": "C:\\Users\\user\\OneDrive\\Escritorio\\WebEscuelaJson\\WebEcuelaJson\\index.html*",
+              "RelativeToolTip": "index.html*",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001512|",
               "WhenOpened": "2024-11-08T23:11:49.669Z",
@@ -82,7 +82,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 6,
               "Title": "Default.aspx.cs",
               "DocumentMoniker": "C:\\Users\\user\\OneDrive\\Escritorio\\WebEscuelaJson\\WebEcuelaJson\\Default.aspx.cs",
               "RelativeDocumentMoniker": "Default.aspx.cs",
@@ -94,16 +94,15 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 7,
               "Title": "Default.aspx.cs",
               "DocumentMoniker": "C:\\Users\\user\\OneDrive\\Escritorio\\WebEscuelaJson\\WebEcuelaJson\\Default.aspx.cs",
               "RelativeDocumentMoniker": "Default.aspx.cs",
               "ToolTip": "C:\\Users\\user\\OneDrive\\Escritorio\\WebEscuelaJson\\WebEcuelaJson\\Default.aspx.cs",
               "RelativeToolTip": "Default.aspx.cs",
-              "ViewState": "AgIAAAgAAAAAAAAAAAAxwB4AAAAiAAAAAAAAAA==",
+              "ViewState": "AgIAAAQAAAAAAAAAAAAAAB4AAAAiAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-18T16:28:20.811Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-10-18T16:28:20.811Z"
             },
             {
               "$type": "Document",
@@ -118,7 +117,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 2,
               "Title": "form.js",
               "DocumentMoniker": "C:\\Users\\user\\OneDrive\\Escritorio\\WebEscuelaJson\\WebEcuelaJson\\js\\form.js",
               "RelativeDocumentMoniker": "js\\form.js",
@@ -142,7 +141,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 1,
               "Title": "table.js",
               "DocumentMoniker": "C:\\Users\\user\\OneDrive\\Escritorio\\WebEscuelaJson\\WebEcuelaJson\\js\\table.js",
               "RelativeDocumentMoniker": "js\\table.js",
@@ -155,7 +154,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 4,
               "Title": "DatosUsuario.cs",
               "DocumentMoniker": "C:\\Users\\user\\OneDrive\\Escritorio\\WebEscuelaJson\\CapaDeNegocio\\Datos\\DatosUsuario.cs",
               "RelativeDocumentMoniker": "..\\CapaDeNegocio\\Datos\\DatosUsuario.cs",
@@ -168,7 +167,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 3,
               "Title": "index.html",
               "DocumentMoniker": "C:\\Users\\user\\OneDrive\\Escritorio\\WebEscuelaJson\\WebEcuelaJson\\index.html",
               "RelativeDocumentMoniker": "index.html",
@@ -180,7 +179,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
+              "DocumentIndex": 5,
               "Title": "form.js",
               "DocumentMoniker": "C:\\Users\\user\\OneDrive\\Escritorio\\WebEscuelaJson\\WebEcuelaJson\\js\\form.js",
               "RelativeDocumentMoniker": "js\\form.js",
